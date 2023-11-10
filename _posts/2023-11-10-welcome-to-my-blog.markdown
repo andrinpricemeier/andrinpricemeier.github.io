@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to my blog!"
-date: 2023-11-10 14:37:43 +0300
+date: 2023-11-10 05:37:43 +0300
 categories: technology
 ---
 

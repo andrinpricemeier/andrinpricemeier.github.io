@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Quick start: How to get a working blog in 10 seconds"
-date: 2023-11-10 05:37:45 +0300
-categories: quick-start
+title: "How to quickly delete the node_modules folder on Windows"
+date: 2023-11-10 05:37:43 +0300
+categories: windows
 ---
 
-# Quick start: How to get a working blog in 10 seconds
+# How to quickly delete the node_modules folder on Windows
 
-It seems like the easiest way (I mean much easier than dealing with Jekyll or Eleventy or so).
-Is to simply add a _layouts folder, a _posts folder and then create a github.io repository on GitHub
-will do the rest. Feel free to clone this repository and you will be up and running with a new blog
-in 10 seconds (instead of hours, dealing with build errors).
+If you are a developer using NodeJS and npm packages, you've surely run into the problem of having to delete
+the node_modules folder. That takes ages on Windows.
+
+The solution is actually fairly simple. Just install globally an npm package called `rimraf`.

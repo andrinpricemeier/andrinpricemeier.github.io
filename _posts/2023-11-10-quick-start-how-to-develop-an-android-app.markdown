@@ -9,7 +9,9 @@ categories: quick-start
 
 Quickly summarized: Developing an Android application if you are not a full time Java Software Engineer is next
 to impossible.
-But! There is a simpler way. Check out the application I made: https://github.com/andrinpricemeier/brauch-ich-ein-ga
+
+But! There is a simpler way. Check out the application I made: https://github.com/andrinpricemeier/brauch-ich-ein-ga.
+
 It's fairly simple to develop an Android application these days actually if you know a little bit of HTML, CSS and JavaScript.
 Just use the following technologies:
 

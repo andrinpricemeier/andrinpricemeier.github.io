@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "How to quickly delete the node_modules folder on Windows"
-date: 2023-11-10 05:37:43 +0300
-categories: windows
+title: "Quick start: How to get a working blog in 10 seconds"
+date: 2023-11-10 05:37:45 +0300
+categories: quick-start
 ---
 
-# How to quickly delete the node_modules folder on Windows
+# Quick start: How to get a working blog in 10 seconds
 
-If you are a developer using NodeJS and npm packages, you've surely run into the problem of having to delete
-the node_modules folder. That takes ages on Windows.
+It seems like the easiest way (I mean much easier than dealing with Jekyll or Eleventy or so),
+is to simply add a _layouts folder (and add a home.html file) and a _posts folder (where you'll add your posts named after a certain pattern)
+and then create a github.io repository on GitHub.
 
-The solution is actually fairly simple. Just install globally an npm package called `rimraf`.
+Check out this blog's source code for an example: https://github.com/andrinpricemeier/andrinpricemeier.github.io

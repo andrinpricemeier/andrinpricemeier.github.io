@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Welcome to my blog!"
+title: "Quick start: How to get a working blog in 10 seconds"
 date: 2023-11-10 05:37:43 +0300
-categories: technology
+categories: quick-start
 ---
 
-# Welcome to my new blog
+# Quick start: How to get a working blog in 10 seconds
 
 It seems like the easiest way (I mean much easier than dealing with Jekyll or Eleventy or so).
 Is to simply add a _layouts folder, a _posts folder and then create a github.io repository on GitHub

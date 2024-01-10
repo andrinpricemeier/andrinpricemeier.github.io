@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 3 big diseases"
-date: 2024-01-09 06:47:45 +0300
+date: 2024-01-11 06:47:45 +0300
 categories: quick-start
 ---
 
